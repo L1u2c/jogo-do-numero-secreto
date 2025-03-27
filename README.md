@@ -1,7 +1,11 @@
-<h1>Jogo do número secreto</h1>
+## Jogo do número secreto
+
+ <img width="200px" src="./img/ia.png" alt="Uma pessoa olhando para a esquerda" class="container__imagem-pessoa" />
 
 <h2>�� Sobre</h2>
 <p>Projeto utilizado nos cursos de lógica de programação da Alura.</p>
+<p>Aplicação que os usuários tentam adivinhar qual é o número secreto.
+
 
 ## �� Tecnologias
 <div>
@@ -11,3 +15,15 @@
 </div>
 
 // Código omitido. 
+
+
+## Funcionalidades
+
+Chutar: Permite aos usuários inserir um número no campo de preenchimento.
+
+Novo jogo: Caso acerte o número secreto o usuário pode começar um novo jogo.
+
+
+##    Desenvolvedor
+
+https://github.com/L1u2c
